@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Viacheslav Yefimenko (no-q)
+# Hi there 👋, I'm Viacheslav Yefimenko
 
 🎓 Computer Science student @ University of Lincoln (2024–2027)  
 💡 Interests: **Python, AI/ML, C#/.NET**  
