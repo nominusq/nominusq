@@ -37,7 +37,7 @@
 
 ## 📫 Contact
 - 📧 Email: [](mailto:)  
-- 💼 LinkedIn: []  
+- 💼 LinkedIn: [www.linkedin.com/in/nomq/](https://www.linkedin.com/in/nomq/)
 - 🐙 GitHub: [github.com/nominusq](https://github.com/nominusq)
 
 
