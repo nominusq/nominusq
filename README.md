@@ -1,28 +1,37 @@
 # Hi there 👋, I'm Viacheslav Yefimenko
 
 🎓 Computer Science student @ University of Lincoln (2024–2027)  
-💡 Interests: **Python, AI/ML, C#/.NET**  
+💡 Interests: **Python, AI/ML, C#/.NET, Web & Bot Development**  
 🔎 Looking for **part-time opportunities / internships** in IT  
 
 ---
 
 ## 🛠 Skills
-- **Programming Languages:** Python, C#  
-- **Technologies:** Git, SQL, Microsoft Certified: Azure AI Fundamentals  
-- **Areas of Interest:** AI/ML, backend development, chatbots, cloud solutions  
+
+- **Programming Languages:** Python, C#, TypeScript (Next.js), SQL  
+- **Frameworks & Tools:** Fastify, Prisma ORM, PostgreSQL, Git  
+- **Web & Bot Development:** Telegram Bot API, Mini Apps, Webhooks  
+- **Cloud & DevOps:** Docker basics, deployment with ngrok, CORS setup  
+- **Areas of Interest:** AI/ML, backend systems, chatbots, cloud solutions  
 
 ---
 
 ## 🚀 Projects
 
+- **Suspicious Store (2025)** — Telegram Mini App for NFT purchases  
+  - **Frontend:** Next.js 13 + TypeScript, responsive design for Mini Apps  
+  - **Backend:** Fastify + Prisma + PostgreSQL  
+  - **Features:** dynamic NFT pricing algorithm, invoice generation via Telegram Stars, user inventory system, gifting NFTs  
+  - **Integration:** Telegram WebApp API + payment flow (`openInvoice`)  
+
 *(links will be updated once projects are uploaded)*  
 
 ---
 
-## 🎯 Mid 2025 - Mid 2026 Goals
-- Build 3–4 pet projects in Python + AI  
+## 🎯 Mid 2025 – Mid 2026 Goals
+- Build 3–4 projects 
 - Land my first IT job (internship / part-time)  
-- Improve Python skills to Junior Developer level  
+- Improve backend + fullstack skills to Junior Developer level  
 
 ---
 
@@ -30,6 +39,7 @@
 - 📧 Email: [](mailto:)  
 - 💼 LinkedIn: []  
 - 🐙 GitHub: [github.com/nominusq](https://github.com/nominusq)
+
 
 
 <!---
